@@ -1,6 +1,6 @@
-# Genesis
+# Flutter Demo App -GENESIS
 
-A new Flutter project.
+A new Flutter project covering the fundamentals to a well-rounded app.
 
 ## Getting Started
 
